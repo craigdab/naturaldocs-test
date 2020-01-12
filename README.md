@@ -1,4 +1,4 @@
-# Natural Docs test
+# Lilypond-Natural Docs test case
 
 Testing the integration between LilyPond files (.ly, .ily, .scm, .md, .txt) and Natural Docs
 
@@ -29,7 +29,7 @@ Language: Markdown
    Block Comment: <!-- -->
 ```
 ### Additions to current Lilypond/Scheme Code
-Every comment needs an additional line of code from Natural Docs preceeding it: `keyword: title`.
+Every comment in a Lilypond or Scheme file needs an additional line of code from Natural Docs preceeding it: `keyword: title`.
 
 List of Keywords
 https://www.naturaldocs.org/reference/keywords/
@@ -44,3 +44,8 @@ Copyright (C) 2015 Matteo Ceccarello
 
 Change to the Natural Docs directory:
 `cd Natural Docs`
+
+run
+```NaturalDocs.exe C:\My Project\Natural Docs Config Folder```
+on Mac
+```mono NaturalDocs.exe C:\My Project\Natural Docs Config Folder
