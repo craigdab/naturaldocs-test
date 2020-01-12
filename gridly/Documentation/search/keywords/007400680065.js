@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("the",["Information"],[["the",,[[,"Checking the grid contents",,,0,"File:usage-examples/example.ly:Checking_the_grid_contents"],[,"Display the grid",,,0,"File:usage-examples/example.ly:Display_the_grid"]]]]);

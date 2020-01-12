@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ini",["Information"],[["initialization",,[[,"Grid initialization",,,0,"File:usage-examples/example.ly:Grid_initialization"]]]]);

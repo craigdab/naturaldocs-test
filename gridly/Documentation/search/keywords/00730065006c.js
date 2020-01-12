@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sel",["Information"],[["selection",,[[,"Music selection",,,0,"File:usage-examples/example.ly:Music_selection"]]]]);

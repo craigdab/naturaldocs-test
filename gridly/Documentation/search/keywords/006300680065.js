@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("che",["Information"],[["Checking",,[[,"Checking the grid contents",,,0,"File:usage-examples/example.ly:Checking_the_grid_contents"]]]]);

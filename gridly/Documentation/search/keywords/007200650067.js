@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("reg",["Function"],[["registerOption",,[[,"\\registerOption",,"registeroption",0,"File:__init__.ily:\\registerOption"]]]]);
