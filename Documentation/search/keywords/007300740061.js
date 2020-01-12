@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sta",["Function"],[["stack",,[[,"stack implementation",,,0,"File:test.scm:stack_implementation"]]]]);

@@ -1,0 +1,1 @@
+NDMenu.OnSectionLoaded("files.js",[[1,"test.ily"],[1,"test.ly"],[1,"test.md"],[1,"test.scm"],[1,"test.txt"],[1,"test2.txt"]]);

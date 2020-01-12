@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pus",["Information"],[["push",,[[,"push value",,,0,"File:test.scm:push_value"]]]]);

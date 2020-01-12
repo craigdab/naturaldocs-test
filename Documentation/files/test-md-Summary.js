@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:test.md","test.md");NDSummary.OnSummaryLoaded("File:test.md",[["Markdown","Markdown"]],[["Groups","Group"],["Information","Information"]],[[9,0,0,"Information","Information"],[10,0,1,"Does this Natural Docs comment work?","Does_this_Natural_Docs_comment_work_"]]);

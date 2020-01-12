@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:test.txt",{1:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">This project is licensed under the GPL.</div></div>"});

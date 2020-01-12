@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File:test.md",{10:"<div class=\"NDToolTip TInformation LMarkdown\"><div class=\"TTSummary\">Does this Natural Docs comment work?</div></div>"});

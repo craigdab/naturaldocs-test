@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:test2.txt","test2.txt");NDSummary.OnSummaryLoaded("File:test2.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[2,0,0,"Test page 2","Test_page_2"]]);
